@@ -5,8 +5,8 @@ public class SimpleMath {
         return firstNumber + secondNumber;
     }
 
-    public Double division(Double firtNumber, Double secondNumber) {
-        return firtNumber / secondNumber;
+    public Double division(Double firstNumber, Double secondNumber) {
+        return firstNumber / secondNumber;
     }
 
     public Double multiplication(Double firstNumber, Double secondNumber) {
